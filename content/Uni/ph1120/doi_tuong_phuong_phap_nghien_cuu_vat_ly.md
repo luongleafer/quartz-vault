@@ -7,7 +7,7 @@ subject-code: ph1120
 chapter: 0
 unit: 1
 title: Đối tượng và các phương pháp nghiên cứu vật lý
-created: 2025-04-25
+published: 2025-04-25
 ---
 
 # Đối tượng

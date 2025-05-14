@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Đây là một cái kho
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Trong kho có gì? Tôi cũng chả nhớ ¯\\_(ツ)_/¯. Anyway,
