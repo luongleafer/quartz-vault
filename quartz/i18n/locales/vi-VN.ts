@@ -26,8 +26,8 @@ export default {
       noBacklinksFound: "Không có liên kết ngược được tìm thấy",
     },
     themeToggle: {
-      lightMode: "Sáng",
-      darkMode: "Tối",
+      lightMode: "Chế độ Sáng",
+      darkMode: "Chế độ Tối",
     },
     readerMode: {
       title: "Chế độ đọc",
@@ -39,7 +39,7 @@ export default {
       createdWith: "Được tạo bởi",
     },
     graph: {
-      title: "Biểu Đồ",
+      title: "Đồ thị bài viết liên quan",
     },
     recentNotes: {
       title: "Bài viết gần đây",
@@ -54,10 +54,10 @@ export default {
       searchBarPlaceholder: "Tìm kiếm thông tin",
     },
     tableOfContents: {
-      title: "Bảng Nội Dung",
+      title: "Mục lục",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `đọc ${minutes} phút`,
+      readingTime: ({ minutes }) => `Thời gian đọc khoảng ${minutes} phút`,
     },
   },
   pages: {

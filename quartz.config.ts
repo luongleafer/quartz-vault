@@ -15,10 +15,10 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "vi-VN",
     baseUrl: "vault.leafer.id.vn",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "published",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -71,7 +71,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({ renderEngine: "mathjax" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
