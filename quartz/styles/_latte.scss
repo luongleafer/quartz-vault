@@ -1,7 +1,3 @@
-@use "./base.scss";
-
-// put your custom CSS here!
-
 $rosewater: #dc8a78;
 $flamingo: #dd7878;
 $pink: #ea76cb;
@@ -28,12 +24,3 @@ $surface0: #ccd0da;
 $base: #eff1f5;
 $mantle: #e6e9ef;
 $crust: #dce0e8;
-
-body {
-  font-family: "Noto Serif", "Klee One SemiBold"; 
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Cormorant Garamond", "Klee One SemiBold";
-  color: $green;
-}
